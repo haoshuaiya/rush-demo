@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@leo-group/my-app",
+      "comment": "feat:rush demo 初始化",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@leo-group/my-app"
+}
