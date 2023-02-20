@@ -336,7 +336,7 @@
       /**
        * The NPM package name of the project (must match package.json)
        */
-      "packageName": "my-app",
+      "packageName": "@leo-group/my-app",
 
       /**
        * The path to the project folder, relative to the rush.json config file.
@@ -388,7 +388,7 @@
        * the Rush change and publish workflows. The default value is false.
        * NOTE: "versionPolicyName" and "shouldPublish" are alternatives; you cannot specify them both.
        */
-      // "shouldPublish": false,
+      "shouldPublish": true,
 
       /**
        * Facilitates postprocessing of a project's files prior to publishing.
