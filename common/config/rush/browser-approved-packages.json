@@ -3,7 +3,83 @@
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
   "packages": [
     {
+      "name": "@typescript-eslint/eslint-plugin",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/cli-plugin-babel",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/cli-plugin-eslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/cli-plugin-typescript",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/cli-plugin-vuex",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/cli-service",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@vue/eslint-config-typescript",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "core-js",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-config-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-vue",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "my-controls",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "sass",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "sass-loader",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "vue",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "vue-class-component",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "vuex",
       "allowedCategories": [ "production" ]
     },
     {

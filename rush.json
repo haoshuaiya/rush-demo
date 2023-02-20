@@ -428,6 +428,11 @@
       "projectFolder": "tools/my-toolchain",
       "reviewCategory": "tools",
       "tags": [ "tools" ]
+    },{
+      "packageName": "vue3-demo",
+      "projectFolder": "vue3-demo",
+      "reviewCategory": "production",
+      "tags": ["frontend-team"]
     }
   ]
 }
