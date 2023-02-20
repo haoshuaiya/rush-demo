@@ -224,7 +224,7 @@
      * to retrieve the latest activity for the remote main branch.
      */
     // "url": "https://github.com/microsoft/rush-example",
-    "url": "git@github.com:haoshuaiya/rush-demo.git"
+    "url": "https://github.com/haoshuaiya/rush-demo.git"
     /**
      * The default branch name. This tells "rush change" which remote branch to compare against.
      * The default value is "main"
