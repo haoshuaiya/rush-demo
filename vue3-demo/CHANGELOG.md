@@ -1,6 +1,13 @@
-# Change Log - vue3-demo
+# Change Log - @leo-group/vue3-demo
 
-This log was last generated on Thu, 23 Feb 2023 01:53:44 GMT and should not be manually modified.
+This log was last generated on Thu, 23 Feb 2023 02:02:53 GMT and should not be manually modified.
+
+## 0.1.2
+Thu, 23 Feb 2023 02:02:53 GMT
+
+### Patches
+
+- vue demo测试
 
 ## 0.1.1
 Thu, 23 Feb 2023 01:53:44 GMT
