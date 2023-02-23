@@ -1,6 +1,6 @@
 {
-  "name": "vue3-demo",
-  "version": "0.1.0",
+  "name": "@leo-group/vue3-demo",
+  "version": "0.1.1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
