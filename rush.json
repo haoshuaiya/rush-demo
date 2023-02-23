@@ -432,8 +432,7 @@
       "packageName": "@leo-group/vue3-demo",
       "projectFolder": "vue3-demo",
       "reviewCategory": "production",
-      "tags": ["frontend-team"],
-      "shouldPublish": true
+      "tags": ["frontend-team"]
     }
   ]
 }
