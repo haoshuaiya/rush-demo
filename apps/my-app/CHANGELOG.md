@@ -1,6 +1,13 @@
 # Change Log - @leo-group/my-app
 
-This log was last generated on Mon, 20 Feb 2023 10:17:11 GMT and should not be manually modified.
+This log was last generated on Thu, 23 Feb 2023 02:08:25 GMT and should not be manually modified.
+
+## 1.1.2
+Thu, 23 Feb 2023 02:08:25 GMT
+
+### Patches
+
+- 测试版本发布
 
 ## 1.1.1
 Mon, 20 Feb 2023 10:17:11 GMT

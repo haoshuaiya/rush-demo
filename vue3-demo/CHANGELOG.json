@@ -2,6 +2,18 @@
   "name": "@leo-group/vue3-demo",
   "entries": [
     {
+      "version": "0.1.3",
+      "tag": "@leo-group/vue3-demo_v0.1.3",
+      "date": "Thu, 23 Feb 2023 02:08:25 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "测试vue demo 发布"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.2",
       "tag": "@leo-group/vue3-demo_v0.1.2",
       "date": "Thu, 23 Feb 2023 02:02:53 GMT",
