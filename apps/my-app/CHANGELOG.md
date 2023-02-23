@@ -1,6 +1,13 @@
 # Change Log - @leo-group/my-app
 
-This log was last generated on Thu, 23 Feb 2023 02:35:12 GMT and should not be manually modified.
+This log was last generated on Thu, 23 Feb 2023 02:37:39 GMT and should not be manually modified.
+
+## 1.1.4
+Thu, 23 Feb 2023 02:37:39 GMT
+
+### Patches
+
+- ceshi
 
 ## 1.1.3
 Thu, 23 Feb 2023 02:35:12 GMT
