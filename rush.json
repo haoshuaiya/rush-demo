@@ -432,7 +432,8 @@
       "packageName": "vue3-demo",
       "projectFolder": "vue3-demo",
       "reviewCategory": "production",
-      "tags": ["frontend-team"]
+      "tags": ["frontend-team"],
+      "shouldPublish": true
     }
   ]
 }
